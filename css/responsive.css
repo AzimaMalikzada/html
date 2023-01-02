@@ -4,7 +4,6 @@
 /*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    
     .header-search {
         padding: 15px 0px;
     }
@@ -126,328 +125,317 @@
     .mean-container .mean-nav ul li a.mean-expand {
         top: 0;
     }
+}
 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+.header_section{
+  background-size: cover;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 15px;
+    padding-left: 5px;
+}
+.bg-light {
+    padding: 5px 30px 9px 40px;
+}
+.banner_main {
+    width: 55%;
+}
+.about_taital {
+    width: 40%;
+}
+.about_taital_main {
+    padding-top: 120px;
+}
+.about_image::after {
+    height: 330px;
+}
+.services_section{
+  background-size: cover;
+}
+.blog_taital {
+    font-size: 32px;
+}
+.read_bt {
+    padding-top: 24px;
+}
+.blog_text{
+  font-size: 15px;
+}
+.events_bg{
+  background-size: cover;
+}
+.contact_taital {
+    width: 47%;
+}
+.services_taital {
+    width: 45%;
+}
 
 
 
 
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
-    
-    .titlepage h2::after {width: 58%;}
-    .about-box .titlepage h2::after {
-        width: 52%;
-right: -221px;
-    }
-    .Nursery-img .text-box h3 {padding: 111px 50px;}
-    .contact .titlepage h2::after {
-    left: -650px;
-width: 30%;
-   }
-
-.menu_main { width: 68%; }
-.internet_icon { width: 80px; }
-.many_text { width: 92%; }
-.welcome_text{ padding-top: 0px;  }
-.lorem_text { font-size: 14px; }
-.lorem_text1 { margin-bottom: 0px; }
-.Success_text { width: 100%; padding-bottom: 10px; }
-.success_section { padding-bottom: 0px; }
-.send_bt { width: 140px; }
-.readmore_bt { width: 140px; }
-.see_more { width: 140px; } 
-.read_bt1 { width: 140px; }
-.start_bt { width: 140px; }
-
-
-
-
-
-
-
-
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.banner_main {
+    width: 70%;
 }
-
-@media (min-width: 768px) and (max-width: 991px) {
-    .main-menu ul > li a {padding: 7px 6px ; }
-    .main-menu ul>li a { font-size: 14px;}
-
-
-    .banner-main .carousel-caption h1 {
-
-        font-size: 36px;
-        padding-top: 0px;
-    }
-    .banner-main .carousel-caption p {
-
-        margin-bottom: 7px;
-        display: none;
-    }
-    .main { width: 15%;}
-    .info_icon { min-width: 10%;}
-    #main_slider a.carousel-control-prev {
-    display: none;
-    }
-    .btn_main { margin-top: 58px; width: 65%;}
-    #main_slider a.carousel-control-next {
-    display: none;
-    }
-    .sporrt_text { margin-top: 0px; font-size: 24px;}
-    .email_btn { padding: 41px;}
-    .btn-primary {max-width: 144px; }
-    .titlepage h2::after {width: 79%;}
-    .about-box .titlepage h2::after {width: 73%;
-       right: -88px;
-    }
-    .contact .titlepage h2::after {
-        left: -403px;
-        width: 41%;
-    }
-    .paddimg-right {
-        padding-right: 15px;
-    }
-    .paddimg-left {
-         padding-left: 15px;
-    }
-
-
-.navbar-toggler { background-color: #ffffff; }
-.logo { display: none;}
-.menu_main{ display: none; }
-.logo_mobile { width: 13%; padding: 0px; }
-.mobile_menu {display: initial;}
-.your_text { font-size: 24px; }
-.Shows_text { font-size: 30px; }
-.readmore_bt { width: 140px; }
-.see_more { margin-bottom: 30px; width: 140px;}  
-.internet_icon { width: 80px; }
-.lorem_text1 { font-size: 16px; margin-bottom: 0; }
-.choose_text { font-size: 30px; }
-.tariffs_text { font-size: 30px; }
-.read_bt1 { width: 140px; }
-.live_text { font-size: 22px; }
-.welcome_text { font-size: 22px; padding-top: 0px; }
-.lorem_text { font-size: 14px; }
-.many_text { width: 100%; }
-.box_main { margin-bottom: 0px; }
-.start_bt { width: 135px; }
-.read_bt { width: 135px; }
-.success_section { background-size: cover; }
-.Success_text { width: 100%; font-size: 32px; }
-.our_text { font-size: 32px; }
-.lorem_long_text { width: 100%; }
-.mail_section { width: 100%; margin-top: 25px; } 
-.send_bt { width: 140px; }
-.contact_section2 { padding-bottom: 80px; } 
-.social_icon { padding-bottom: 30px; }
-
-
-
-
+.bg-light {
+    background: #fff !important;
+    border-bottom: 5px solid #0bb663;
+    padding: 15px;
+    background-size: cover;
+    box-shadow: 0px -6px 23px 1px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+  text-align: center;
+}
+.about_taital {
+    width: 55%;
+}
+.about_image::after {
+    height: 440px;
+}
+.about_taital_main {
+    padding-top: 100px;
+}
+.about_section{
+  padding-bottom: 0px;
+}
+.services_taital {
+    width: 62%;
+}
+.services_section{
+  background-size: cover;
+}
+.blog_taital {
+    font-size: 26px;
+    padding-top: 0px;
+}
+.blog_text{
+  padding-top: 0px;
+}
+.read_bt {
+    padding-top: 30px;
+}
+.events_taital {
+    font-size: 36px;
+}
+.events_bg{
+  background-size: cover;
+}
+.contact_taital {
+    width: 63%;
+}
+.testimonial_box {
+    padding: 55px 27px 100px 27px;
+}
+.Enter_text {
+    width: 50%;
+}
+.subscribe_bt{
+  float: initial;
+}
+.subscribe_bt a{
+  margin-top: 20px;
+}
+.footer_section_2{
+  padding-top: 20px;
+}
+.footer_taital{
+  padding-top: 30px;
+}
 
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
-    .last {display: none;}
-    .banner-main .carousel-caption {top: 0%;}
-.titlepage h2 {
-font-size: 42px;
-display: block; 
-}
-#main_slider a.carousel-control-prev {
-    position: absolute;
-    left: 25%;
-    top: 64%;
-    display: none;
-}
-.btn_main { margin-top: 58px; width: 80%;}
-#main_slider a.carousel-control-next {
-    position: absolute;
-    left: 50px;
-    top: 64%;
-    display: none;
-}
-.btn-primary {
-    margin-top: 0px;
-    margin-left: -7px;
+.header_section{
+  background-size: cover;
 }
 
-.banner-main .carousel-caption h1 {
-    font-size: 50px;
-}
-.titlepage h2::after {
-width: 88%;
+.navbar-expand-lg .navbar-nav .nav-link{
+  text-align: center;
 }
 
-.about-box .titlepage h2::after {width: 45%;
-right: -281px;}
-.sporrt_text { margin-top: 0px;}
-.Nursery-img .text-box h3 {
-font-size: 36px;
-padding: 126px 40px;
+.bg-light {
+    background: #fff !important;
+    border-bottom: 5px solid #0bb663;
+    padding: 15px;
+    background-size: cover;
+    box-shadow: 0px -6px 23px 1px;
 }
-.main {
-    width: 20%;}
-
-.contact .titlepage h2::after {
-    left: -234px;
-    width: 55%;
+.banner_main {
+    width: 85%;
+    padding: 40px;
+}
+.banner_taital {
+    font-size: 40px;
+}
+.banner_text {
+    font-size: 14px;
+}
+.about_taital {
+    width: 60%;
+    font-size: 30px;
+}
+.about_taital::after {
+    width: 153px;
+}
+.about_image {
+    padding-left: 0px;
+    padding-top: 15px;
+}
+.about_image::after {
+    height: 341px;
+}
+.about_taital_main {
+    padding-top: 70px;
+}
+.services_section{
+  background-size: cover;
+}
+.about_section_2{
+  padding-bottom: 0px;
+}
+.services_taital {
+    width: 60%;
+    font-size: 30px;
+}
+.services_taital::after {
+    width: 113px;
+}
+.blog_taital {
+    font-size: 24px;
+}
+.events_taital {
+    font-size: 26px;
+}
+.events_bg{
+  background-size: cover;
+}
+.contact_taital {
+  width: 60%;
+    font-size: 30px;
+}
+.contact_taital::after {
+    width: 110px;
+}
+.massage-bt{
+  height: 145px;
+}
+.location_main {
+    display: initial;
+}
+.center{
+  text-align: left;
+}
+.right{
+  text-align: left;
+}
+.footer_section_2{
+  padding-top: 20px;
+}
+.footer_taital{
+  padding-top: 30px;
 }
 
-.navbar-toggler { background-color: #ffffff; }
-.logo { display: none;}
-.menu_main{ display: none; }
-.logo_mobile { width: 13%; padding: 0px; }
-.mobile_menu {display: initial;}
-.your_text { font-size: 24px; }
-.Shows_text { font-size: 30px; }
-.classes_text { font-size: 23px; }
-.popular_text { font-size: 23px; }
-.readmore_bt { width: 140px; }
-.see_more { margin-bottom: 30px; width: 140px;}  
-.internet_icon { width: 80px; }
-.lorem_text1 { font-size: 16px; margin-bottom: 0; }
-.choose_text { font-size: 30px; }
-.tariffs_text { font-size: 30px; }
-.read_bt1 { width: 140px; }
-.live_text { font-size: 22px; }
-.welcome_text { font-size: 22px; }
-.many_text { width: 100%; }
-.box_main { margin-bottom: 0px; }
-.start_bt { width: 135px; }
-.read_bt { width: 135px; }
-.success_section { background-size: cover; }
-.Success_text { width: 100%; font-size: 32px; }
-.our_text { font-size: 32px; }
-.lorem_long_text { width: 100%; }
-.mail_section { width: 100%; } 
-.send_bt { width: 140px; }
-.contact_section2 { padding-bottom: 80px; } 
-.social_icon { padding-bottom: 30px; }
-.banner_section { padding-top: 30px; } 
-.carousel-indicators { bottom: -30px; display: none; } 
-.banner_section_2 { padding-top: 0px; }
-
-
-
-} 
-
+}
 
 @media (max-width: 575px) {
-    .last { display: none; }
-    .carousel-caption {display: none;} 
-.header { padding-top: 0px; }
-.btn-primary {max-width: 126px;
-margin-right: 2px;
-font-size: 14px;}
-.banner-main .carousel-caption h1 {font-size: 30px; line-height: 38px;}
-.titlepage h2 {
-    font-size: 27px;
+.header_section{
+  background-size: cover;
 }
-.sporrt_text{ 
-     font-size: 23px; 
-     margin-top: 0px;
+
+.bg-light {
+    background: #fff !important;
+    border-bottom: 5px solid #0bb663;
+    padding: 15px;
+    background-size: cover;
+    box-shadow: 0px -6px 23px 1px;
 }
-.main {
+
+.navbar-expand-lg .navbar-nav .nav-link{
+  text-align: center;
+}
+.banner_main {
     width: 100%;
+    padding: 10px;
 }
-.btn_main {
-    margin-top: 30px;
-    padding-bottom: 30px;
-    width: 55%;}
-
-#main_slider a.carousel-control-prev {
-    position: absolute;
-    left: 175px;
-    top: 90%;
-    display: none;
+.banner_taital {
+    font-size: 26px;
+}
+.banner_text {
+    font-size: 14px;
+}
+.about_taital {
+    width: 100%;
+    font-size: 30px;
+}
+.about_taital::after {
+    width: 153px;
+}
+.about_image {
+    padding-left: 0px;
+    padding-top: 15px;
+}
+.about_image::after {
+    height: 208px;
+}
+.about_taital_main {
+    padding-top: 70px;
+}
+.services_section{
+  background-size: cover;
+}
+.about_section_2{
+  padding-bottom: 0px;
+}
+.services_taital {
+    width: 100%;
+    font-size: 30px;
+}
+.services_taital::after {
+    width: 113px;
+}
+.blog_taital {
+    font-size: 24px;
+}
+.events_taital {
+    font-size: 30px;
+}
+.events_bg{
+  background-size: cover;
+}
+.contact_taital {
+  width: 100%;
+    font-size: 30px;
+}
+.contact_taital::after {
+    width: 110px;
+}
+.massage-bt{
+  height: 145px;
+}
+.location_main {
+    display: initial;
+}
+.center{
+  text-align: left;
+}
+.right{
+  text-align: left;
+}
+.footer_section_2{
+  padding-top: 20px;
+}
+.footer_taital{
+  padding-top: 30px;
 }
 
-#main_slider a.carousel-control-next {
-    position: absolute;
-    left: 236px;
-    top: 90%;
-    display: none;
-}
-
-.titlepage h2::after {
-    width: 93%;
-}
-    .about-box .titlepage h2::after {
-        width: 238px;
-        right: -50px;
-    }
- .Gallery .titlepage h2 {
-    font-size: 47px;
- }
-    .Gallery .titlepage h2::after {
-        width: 89%;
-    }
-
-    .paddimg-right {
-    padding-right: 15px;
-}
-.paddimg-left {
-    padding-left: 15px;
-}
-.Nursery-img .text-box h3 {
-font-size: 23px;
-padding: 30px 14px;
-
-}
-
-.contact .titlepage h2::after {
-
-    left: -8px;
-    width: 281px;
-}
-.footer .headinga span {
-font-size: 16px;
-
-}
-.menu-bottom {
-    margin-bottom: 45px;
-}
-ul.link li {
-
-    padding: 8px 12px;
-    padding-bottom: 0px; 
-}
 
 
-.navbar-toggler { background-color: #ffffff; }
-.logo { display: none;}
-.menu_main{ display: none; }
-.logo_mobile { width: 13%; padding: 0px; }
-.mobile_menu {display: initial;}
-.your_text { font-size: 24px; }
-.Shows_text { font-size: 30px; }
-.classes_text { font-size: 23px; }
-.popular_text { font-size: 23px; }
-.readmore_bt { width: 140px; }
-.see_more { margin-bottom: 30px; width: 140px;}  
-.internet_icon { width: 80px; }
-.lorem_text1 { font-size: 16px; margin-bottom: 0; }
-.choose_text { font-size: 30px; }
-.tariffs_text { font-size: 30px; }
-.read_bt1 { width: 140px; }
-.live_text { font-size: 22px; }
-.welcome_text { font-size: 22px; }
-.many_text { width: 100%; }
-.box_main { margin-bottom: 0px; }
-.start_bt { width: 135px; display: none; }
-.read_bt { width: 135px; }
-.success_section { background-size: cover; }
-.Success_text { width: 100%; font-size: 32px; }
-.our_text { font-size: 32px; }
-.lorem_long_text { width: 100%; }
-.mail_section { width: 100%; } 
-.send_bt { width: 140px; }
-.contact_section2 { padding-bottom: 80px; } 
-.social_icon { padding-bottom: 30px; }
-.banner_section { padding-top: 30px; } 
-.carousel-indicators { bottom: -30px; display: none; } 
-.banner_section_2 { padding-top: 0px; }
 
 }
+
+
